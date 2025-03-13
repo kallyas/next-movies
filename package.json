@@ -26,7 +26,7 @@
     "react-lazyload": "^3.0.0",
     "react-modal-video": "^1.2.3",
     "react-redux": "^7.2.0",
-    "react-scroll": "^1.9.2",
+    "react-scroll": "^1.9.3",
     "react-select-search": "^2.0.4",
     "redaxios": "^0.3.0",
     "redux": "^4.0.5",
